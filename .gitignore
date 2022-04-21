@@ -1,0 +1,5 @@
+*.pth
+ngrok-stable-linux-amd64.zip
+*.git
+/pneumo_jim90.pth
+__pycache__/*
